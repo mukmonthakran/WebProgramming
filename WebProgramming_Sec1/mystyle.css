@@ -1,0 +1,18 @@
+body {
+    background: #e4ddfc;
+    color: black;
+    }
+
+.big {
+    font-size: 25pt;
+    font-style: italic;
+    text-align: center;
+    color: black; background-color: rgb(228, 114, 213);
+}
+
+
+.normal {
+    font-size: 15pt;
+    text-align: center;
+    color: blueviolet;
+}
